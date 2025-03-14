@@ -11,11 +11,11 @@ Esse laboratório foi realizado com base nas instruções do link a seguir: http
 2. Clique em **+ Create a resource**, pesquise por **Azure AI Search** e crie o recurso com as seguintes configurações:
    - **Subscription:** Sua assinatura do Azure.
    - **Resource group:** Selecione ou crie um grupo de recursos com um nome exclusivo.
-   - **Service name:** Nome único para o serviço.
+   - **Service name:** Nome para o serviço.
    - **Location:** East US ou outra região disponível.
    - **Pricing tier:** Basic.
 3. Clique em **Review + create** e, após a validação, selecione **Create**.
-4. Após a conclusão da implantação, clique em **Go to resource**. Na página de visão geral, é possível adicionar índices, importar dados e realizar buscas.
+4. Após a conclusão da implantação, clique em **Go to resource**.
 
 ---
 
