@@ -125,3 +125,6 @@ Esse laboratório foi realizado com base nas instruções do link a seguir: http
 
 Seguindo este passo a passo, você conseguirá realizar com sucesso uma pesquisa usando o Azure AI Search.
 
+Minha opinião ao realizar o Lab:
+Em meu ver, esta ferramenta pode auxiliar e muito o trabalho de grandes empresas que precisam realizar análises de grandes números de dados, pois a ferramenta é bem eficaz e realiza as análises de forma rápida. Desta forma, contribuindo para um aumento da capacidade de processamento de informações das empresas. Todos esses novos dados, torna possível a otimização do atendimento ao cliente, via respostas rápidas em um fluxo automatizado de mensagens no whatsapp, por exemplo. Em adição, o Azure AI Search também é capaz de agregar muito para o setor de RH no momento de selecionar candidatos para uma vaga específica. 
+
